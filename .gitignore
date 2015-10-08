@@ -1,5 +1,5 @@
-node_modules
+#node_modules
 coverage
 *.log
-lib
-/server.js
+#lib
+#/server.js
